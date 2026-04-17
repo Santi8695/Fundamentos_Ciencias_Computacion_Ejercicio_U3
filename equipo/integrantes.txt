@@ -2,11 +2,11 @@
 # Completar una línea por integrante.
 # Formato: Nombre completo | Rol | Interés en la materia
 
-1. ____________________ | ____________________ | ____________________
-2. ____________________ | ____________________ | ____________________
-3. ____________________ | ____________________ | ____________________
-4. ____________________ | ____________________ | ____________________
-5. ____________________ | ____________________ | ____________________
+1. Oliver Billig | Desarrollador/a | 9
+2. Michel Abona | Desarrollador/a | 9.5
+3. Santiago Lopez | Desarrollador/a | 8
+4. Juan Bautista Guadalupe | Desarrollador/a | 8
+5. Julian Malvarez | Desarrollador/a | 3
 
 # Roles sugeridos:
 # - Integrador/a
