@@ -10,7 +10,12 @@ Organizar una base documental inicial para un sistema académico sencillo que pe
 
 ## Objetivos específicos (editables)
 
-- [ ] Clarificar qué módulos tendrá el sistema.
+## Modulos que tendra la aplicacion
+- Módulos mejoras sugeridas 
+- Gestión de cursos
+- Gestión de estudiantes
+- Agenda de entregas
+- Reporte básico de calificaciones
 - [ ] Definir versión inicial compartida.
 - [ ] Documentar flujo básico de trabajo colaborativo.
 - [ ] Practicar integración de aportes por ramas.
