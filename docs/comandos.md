@@ -17,6 +17,7 @@
 
 ## Sección D - Ramas e integración
 
+## Comandos utiles para el trabajo con ramas (branches)
 - `git branch`: lista ramas.
 - `git checkout -b <rama>`: crea y cambia a nueva rama.
 - `git merge <rama>`: integra cambios de otra rama.
