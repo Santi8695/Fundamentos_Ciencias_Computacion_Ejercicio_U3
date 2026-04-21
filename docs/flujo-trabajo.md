@@ -10,10 +10,6 @@
 6. Agregar con `git add`.
 7. Confirmar con `git commit`.
 8. Integrar con `git merge`.
-# Cambio erroneo
-## Esto no deberia estar pasando
-- Pero paso
-- Error catastrofico
 
 
 ## Acuerdos de edición
