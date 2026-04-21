@@ -2,8 +2,10 @@
 
 ## Sección A - Inicio del trabajo
 
+- Algunos comandos que usaremos para iniciar a trabajar con git
 - `git clone <url-o-ruta>`: copia el repositorio.
 - `git status`: muestra estado de archivos y rama.
+- `git init`: Crea el directorio .git y la estructura para el control de versiones.
 
 ## Sección B - Guardar cambios
 
